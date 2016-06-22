@@ -10,6 +10,9 @@ merge files
 
 ## Deployment
 
+As stated above this an example for learning 
+Git and Github.
+
 ## Purpose
 
 ## How to Contribute
