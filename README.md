@@ -15,4 +15,8 @@ Git and Github.
 
 ## Purpose
 
+Comparing and Difference in the p4merge and p4difftool
+
 ## How to Contribute
+
+Every body can contribute in Github....
